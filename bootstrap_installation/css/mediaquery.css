@@ -1,0 +1,5 @@
+@media (max-width:900px) and (max-width:1000px) {
+      h1{
+        color: red;
+      }
+}

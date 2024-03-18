@@ -1,0 +1,27 @@
+                            /* tag selector */
+h1 {
+    font-size: 50px;
+    color: red;
+}
+
+                            /* class selectors */
+.Bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+    
+}
+.circular{
+    border-radius: 90%;
+}
+.Heading{
+    font-size: 200px;
+}
+img:hover{
+    background-color: gold;
+}
+.Dev{
+    color: rgb(0, 255, 179);
+}
